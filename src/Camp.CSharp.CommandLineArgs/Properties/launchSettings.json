@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Camp.CSharp.CommandLineArgs": {
+      "commandName": "Project",
+      "commandLineArgs": "-godmode -arg1 /arg2"
+    }
+  }
+}
